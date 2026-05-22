@@ -1,0 +1,19 @@
+# Large data and model files
+data/
+models/
+vector_database/
+vector_database_base/
+results/
+logs/
+rl_cache.json
+__pycache__/
+*.pyc
+.env
+*.log
+install_packages.sh
+HW3_For_student/
+*.db
+*.faiss
+
+# Keep plots
+!plots/
